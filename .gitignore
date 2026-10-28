@@ -1,0 +1,23 @@
+# Personal Watch History & Local Databases (NEVER COMMIT)
+watch-history.json
+cookies.txt
+*.db
+*.db-journal
+*.db-wal
+chroma_db/
+.yt-memory/
+
+# Python / uv packaging
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+build/
+*.egg-info/
+.env
+*.db-shm
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+cookies*.txt
+watch-history*.json

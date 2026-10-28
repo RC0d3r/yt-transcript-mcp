@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "yt-memory": {
+      "command": "yt-mcp"
+    }
+  }
+}
